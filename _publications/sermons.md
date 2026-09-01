@@ -1,10 +1,11 @@
 ---
-title: "Political Narratives in Evangelical Sermons"
+title: "Systemic electioneering from the evangelical pulpit: Evidence from a computational analysis"
 collection: publications
-category: in_progress
+category: manuscripts
 permalink: /publication/sermons
-excerpt: "Commentators have regularly noted the increasing involvement of evangelical movements in American politics. Despite this consensus, there is limited understanding of how evangelical leaders engage with politics within their congregations and potentially shape their congregants' political views. To examine the prevalence and content of political speech in evangelical communities, we construct a dataset of approximately 50,000 sermon recordings around the 2022 midterm elections. We employ large language models (LLMs) to identify policy discussion and vote instructions in transcribed sermons. Our findings reveal that political references in evangelical sermons are frequent, especially around elections. By contrast, direct endorsements of political candidates remain rare, suggesting a maintained division between church and state, with political discourse in evangelical churches focusing on social issues rather than specific candidates."
-date: 2024-12-01
-venue: 'In progress'
-citation: 'With Marc Jacobs, Sean Westwood, and Yphtach Lelkes.'
+excerpt: "Religious institutions' engagement in prohibited electoral advocacy is a growing concern for democratic governance. In the United States, such mobilization has been especially visible within the evangelical movement. This study examines the phenomenon using a corpus of 88,546 sermons from predominantly evangelical churches, transcribed from 63,683 hours of Sunday services spanning the 2020, 2022, and 2024 election cycles and a nonelection control period. Analysis of this corpus reveals that direct political advocacy and endorsements are widespread: 14.7% of churches engaged in this speech during the three months surrounding elections."
+date: '2026-05-26'
+venue: 'Proceedings of the National Academy of Sciences (PNAS)'
+paperurl: 'https://doi.org/10.1073/pnas.2603911123'
+citation: 'Jacob, M. S., Lelkes, Y., Wolken, S., & Westwood, S. J. (2026). Systemic electioneering from the evangelical pulpit: Evidence from a computational analysis. Proceedings of the National Academy of Sciences, 123(21), e2603911123.'
 ---
